@@ -3,11 +3,11 @@
 
 <img align="right" alt="GIF" width=500 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrenlicTZ4aGZpdzlpcXU2aDdtaGhra3JvamZ2cjJubDZvYjhzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-- 🔭 I’m currently working on **ML, Web Scraping and Web application projects**
+- 🔭 I’m currently working on **ML, Web Scraping and Web application projects**, including my personal <a href = "https://farhanyk.vercel.app">website</a>
 
 - 🌱 I’m currently learning **Deep Learning, Artificial Intelligence, Software Engineering**
 
-- 📫 How to reach me **fykhan2002@gmail.com** or check out my <a href = "https://farhanyk.vercel.app">website</a>
+- 📫 How to reach me? **fykhan2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
