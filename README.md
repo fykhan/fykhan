@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">A Machine Learning enthusiast and Full Stack Developer from Bangladesh, currently studying at the University of Hong Kong</h3>
+<h3 align="center">A Machine Learning enthusiast and Software Engineer from Bangladesh, currently studying at the University of Hong Kong</h3>
 
 <img align="right" alt="GIF" width=500 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrenlicTZ4aGZpdzlpcXU2aDdtaGhra3JvamZ2cjJubDZvYjhzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
